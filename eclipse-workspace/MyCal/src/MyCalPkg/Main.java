@@ -6,6 +6,7 @@ public class Main {
 		Calculator obj=new Calculator();
 		int a=10,b=20;
 		System.out.println(obj.add(a,b));
+		System.out.println(obj.sub(a,b));
 	}
 
 }
